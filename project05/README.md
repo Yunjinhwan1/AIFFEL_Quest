@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 윤진환, 강다은
+- 코더 : 윤진환
 - 리뷰어 : 전휘호
 
 
@@ -9,7 +9,7 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-          ![image](https://github.com/huihojeun2/AIFFEL_Quest/assets/65065859/f672ac8a-37e6-4090-b07e-36d3f0b0c913)
+        - ![image](https://github.com/Yunjinhwan1/AIFFEL_Quest/assets/65065859/f8959b1f-7330-4467-a71f-b41ba28c3684)
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -18,18 +18,16 @@
     - 해당 코드가 무슨 기능을 하는지, 왜 그렇게 짜여진건지, 작동 메커니즘이 뭔지 기술.
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-     
-          ![image](https://github.com/huihojeun2/AIFFEL_Quest/assets/65065859/4d26192f-66ad-463d-bec1-aab9115c139e)
+        ![image](https://github.com/Yunjinhwan1/AIFFEL_Quest/assets/65065859/dcfb2574-47d4-445b-9405-046a1b4d7df0)
 
-        
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” 
 ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
     - 문제에서 요구하는 조건에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-        ![image](https://github.com/huihojeun2/AIFFEL_Quest/assets/65065859/93c21460-bec4-4a9d-bfc2-012bc62a0dec)
-
+        ![image](https://github.com/Yunjinhwan1/AIFFEL_Quest/assets/65065859/fd2875bc-6b65-4042-9e55-f5800fbff341)
+      새로운 배경을 입히고 대상을 검은 화면으로 바꾸는거 까지 하셨
 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
@@ -37,16 +35,14 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-     
-         ![image](https://github.com/huihojeun2/AIFFEL_Quest/assets/65065859/04c7efb3-ea62-4e66-9f1c-7ec3bfad2c77)
+        ![image](https://github.com/Yunjinhwan1/AIFFEL_Quest/assets/65065859/bcd9ca8d-35c1-4f15-bad2-4f2130bac56a)
 
-        
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 하드코딩을 하지않고 함수화, 모듈화가 가능한 부분은 함수를 만들거나 클래스로 짰는지
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-    ![image](https://github.com/huihojeun2/AIFFEL_Quest/assets/65065859/dbfa07e2-9fac-4614-9098-6dc3b9d39068)
+    ![image](https://github.com/Yunjinhwan1/AIFFEL_Quest/assets/65065859/2c00116a-1452-4f93-bb4c-9e9b7c4f498b)
 
 
 # 참고 링크 및 코드 개선
